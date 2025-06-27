@@ -5,3 +5,4 @@ gschemas.compiled
 *.mo
 *.zip
 node_modules
+/.direnv/
